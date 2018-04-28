@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: ce8f145cd776ae64bac0b4058ddbb27b
+timeCreated: 1513560820
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Layer:0
+    100004: Layer:0 1
+    100006: Layer:0 10
+    100008: Layer:0 11
+    100010: Layer:0 12
+    100012: Layer:0 13
+    100014: Layer:0 14
+    100016: Layer:0 15
+    100018: Layer:0 16
+    100020: Layer:0 17
+    100022: Layer:0 18
+    100024: Layer:0 19
+    100026: Layer:0 2
+    100028: Layer:0 20
+    100030: Layer:0 21
+    100032: Layer:0 22
+    100034: Layer:0 23
+    100036: Layer:0 24
+    100038: Layer:0 25
+    100040: Layer:0 25_MeshPart0
+    100042: Layer:0 25_MeshPart1
+    100044: Layer:0 25_MeshPart2
+    100046: Layer:0 25_MeshPart3
+    100048: Layer:0 26
+    100050: Layer:0 27
+    100052: Layer:0 3
+    100054: Layer:0 4
+    100056: Layer:0 5
+    100058: Layer:0 6
+    100060: Layer:0 7
+    100062: Layer:0 8
+    100064: Layer:0 9
+    100066: Layer:ROOF
+    100068: Layer:ROOF 1
+    100070: Layer:ROOF 2
+    400000: //RootNode
+    400002: Layer:0
+    400004: Layer:0 1
+    400006: Layer:0 10
+    400008: Layer:0 11
+    400010: Layer:0 12
+    400012: Layer:0 13
+    400014: Layer:0 14
+    400016: Layer:0 15
+    400018: Layer:0 16
+    400020: Layer:0 17
+    400022: Layer:0 18
+    400024: Layer:0 19
+    400026: Layer:0 2
+    400028: Layer:0 20
+    400030: Layer:0 21
+    400032: Layer:0 22
+    400034: Layer:0 23
+    400036: Layer:0 24
+    400038: Layer:0 25
+    400040: Layer:0 25_MeshPart0
+    400042: Layer:0 25_MeshPart1
+    400044: Layer:0 25_MeshPart2
+    400046: Layer:0 25_MeshPart3
+    400048: Layer:0 26
+    400050: Layer:0 27
+    400052: Layer:0 3
+    400054: Layer:0 4
+    400056: Layer:0 5
+    400058: Layer:0 6
+    400060: Layer:0 7
+    400062: Layer:0 8
+    400064: Layer:0 9
+    400066: Layer:ROOF
+    400068: Layer:ROOF 1
+    400070: Layer:ROOF 2
+    2300000: Layer:0 1
+    2300002: Layer:0 10
+    2300004: Layer:0 11
+    2300006: Layer:0 12
+    2300008: Layer:0 13
+    2300010: Layer:0 14
+    2300012: Layer:0 15
+    2300014: Layer:0 16
+    2300016: Layer:0 17
+    2300018: Layer:0 18
+    2300020: Layer:0 19
+    2300022: Layer:0 2
+    2300024: Layer:0 20
+    2300026: Layer:0 21
+    2300028: Layer:0 22
+    2300030: Layer:0 23
+    2300032: Layer:0 24
+    2300034: Layer:0 25_MeshPart0
+    2300036: Layer:0 25_MeshPart1
+    2300038: Layer:0 25_MeshPart2
+    2300040: Layer:0 25_MeshPart3
+    2300042: Layer:0 26
+    2300044: Layer:0 27
+    2300046: Layer:0 3
+    2300048: Layer:0 4
+    2300050: Layer:0 5
+    2300052: Layer:0 6
+    2300054: Layer:0 7
+    2300056: Layer:0 8
+    2300058: Layer:0 9
+    2300060: Layer:ROOF
+    2300062: Layer:ROOF 1
+    2300064: Layer:ROOF 2
+    3300000: Layer:0 1
+    3300002: Layer:0 10
+    3300004: Layer:0 11
+    3300006: Layer:0 12
+    3300008: Layer:0 13
+    3300010: Layer:0 14
+    3300012: Layer:0 15
+    3300014: Layer:0 16
+    3300016: Layer:0 17
+    3300018: Layer:0 18
+    3300020: Layer:0 19
+    3300022: Layer:0 2
+    3300024: Layer:0 20
+    3300026: Layer:0 21
+    3300028: Layer:0 22
+    3300030: Layer:0 23
+    3300032: Layer:0 24
+    3300034: Layer:0 25_MeshPart0
+    3300036: Layer:0 25_MeshPart1
+    3300038: Layer:0 25_MeshPart2
+    3300040: Layer:0 25_MeshPart3
+    3300042: Layer:0 26
+    3300044: Layer:0 27
+    3300046: Layer:0 3
+    3300048: Layer:0 4
+    3300050: Layer:0 5
+    3300052: Layer:0 6
+    3300054: Layer:0 7
+    3300056: Layer:0 8
+    3300058: Layer:0 9
+    3300060: Layer:ROOF
+    3300062: Layer:ROOF 1
+    3300064: Layer:ROOF 2
+    4300000: Layer:0
+    4300002: Layer:0
+    4300004: Layer:0
+    4300006: Layer:0
+    4300008: Layer:0
+    4300010: Layer:0
+    4300012: Layer:0
+    4300014: Layer:0
+    4300016: Layer:0
+    4300018: Layer:0
+    4300020: Layer:0
+    4300022: Layer:0
+    4300024: Layer:0
+    4300026: Layer:0
+    4300028: Layer:ROOF
+    4300030: Layer:0
+    4300032: Layer:0
+    4300034: Layer:0
+    4300036: Layer:ROOF
+    4300038: Layer:ROOF
+    4300040: Layer:0
+    4300042: Layer:0
+    4300044: Layer:0
+    4300046: Layer:0
+    4300048: Layer:0
+    4300050: Layer:0
+    4300052: Layer:0
+    4300054: Layer:0_MeshPart0
+    4300056: Layer:0_MeshPart1
+    4300058: Layer:0_MeshPart2
+    4300060: Layer:0_MeshPart3
+    4300062: Layer:0
+    4300064: Layer:0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
